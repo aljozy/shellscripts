@@ -16,13 +16,13 @@ Before using the script, you need to have the AWS CLI installed and set up on yo
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/aws-resource-tracker.git
+   git clone https://github.com/aljozy/shellscripts.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd aws-resource-tracker
+   cd shellscripts
    ```
 
 3. Make the script executable:
